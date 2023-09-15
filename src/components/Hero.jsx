@@ -89,14 +89,13 @@ export default function Hero() {
                   </a>
                 ))}
               </div>
-              <div className="hidden md:absolute md:inset-y-0 md:right-0 md:flex md:items-center md:justify-end md:hidden">
-                  {/* Hid Login Button */}
+              <div className="hidden md:absolute md:inset-y-0 md:right-0 md:flex md:items-center md:justify-end ">
                 <span className="inline-flex rounded-md shadow">
                   <a
                     href="#"
                     className="inline-flex items-center rounded-md border border-transparent bg-white px-4 py-2 text-base font-medium text-blue-500 hover:bg-gray-50"
                   >
-                    Log in
+                    Resume
                   </a>
                 </span>
               </div>
@@ -121,7 +120,7 @@ export default function Hero() {
                   <div>
                     <img
                       className="h-8 w-auto"
-                      src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
+                      src={logo}
                       alt=""
                     />
                   </div>
@@ -144,12 +143,6 @@ export default function Hero() {
                     </a>
                   ))}
                 </div>
-                <a
-                  href="#"
-                  className="block w-full bg-gray-50 px-5 py-3 text-center font-medium text-blue-500 hover:bg-gray-100"
-                >
-                  Log in
-                </a>
               </div>
             </Popover.Panel>
           </Transition>
@@ -162,7 +155,7 @@ export default function Hero() {
               <span className="block text-blue-500 xl:inline">Cloud Developer / Full-Stack Engineer</span>
             </h1>
             <p className="mx-auto mt-3 max-w-md text-base text-gray-500 sm:text-lg md:mt-5 md:max-w-3xl md:text-xl">
-              I'm so glad you're here. I can't wait to show you what I've been working on. <br />
+              I'm so glad you're here, I can't wait to show you what I've been working on. <br />
               Check out my projects below and don't forget to reach out and let me know what you think!
             </p>
             <div className="mx-auto mt-5 max-w-md sm:flex sm:justify-center md:mt-8">
