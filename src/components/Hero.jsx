@@ -4,9 +4,9 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import logo from '../assets/logo.svg'
 
 const navigation = [
-  { name: 'Projects', href: '#' },
-  { name: 'About', href: '#' },
-  { name: 'Contact', href: '#' },
+  { name: 'Projects', href: '#projects' },
+  { name: 'About', href: '#about' },
+  { name: 'Contact', href: '#contact' },
 ]
 
 export default function Hero() {
@@ -68,7 +68,7 @@ export default function Hero() {
                   <a href="#">
                     <span className="sr-only">Daniel Walker Development</span>
                     <img
-                      className="h-8 w-auto sm:h-10"
+                      className="h-8 w-auto sm:h-10 rounded-3x1"
                       src={logo}
                       alt="Image by Freepik"
                     />
@@ -93,7 +93,7 @@ export default function Hero() {
                 <span className="inline-flex rounded-md shadow">
                   <a
                     href="#"
-                    className="inline-flex items-center rounded-md border border-transparent bg-white px-4 py-2 text-base font-medium text-blue-500 hover:bg-gray-50"
+                    className="inline-flex items-center rounded-md border border-transparent bg-white px-4 py-2 text-base font-medium text-sky-500 hover:bg-gray-50"
                   >
                     Resume
                   </a>
@@ -152,16 +152,15 @@ export default function Hero() {
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl md:text-6xl">
               <span className="block xl:inline">Hi, I'm Daniel Walker</span>{' '}
-              <span className="block text-blue-500 xl:inline">Cloud Developer / Full-Stack Engineer</span>
+              <span className="block text-blue-500 xl:inline">Software Engineer</span>
             </h1>
             <p className="mx-auto mt-3 max-w-md text-base text-gray-500 sm:text-lg md:mt-5 md:max-w-3xl md:text-xl">
-              I'm so glad you're here, I can't wait to show you what I've been working on. <br />
-              Check out my projects below and don't forget to reach out and let me know what you think!
+              I'm so glad you're here, I can't wait to show you what I've been working on.
             </p>
             <div className="mx-auto mt-5 max-w-md sm:flex sm:justify-center md:mt-8">
               <div className="rounded-md shadow">
                 <a
-                  href="#"
+                  href="#projects"
                   className="flex w-full items-center justify-center rounded-md border border-transparent bg-blue-500 px-8 py-3 text-base font-medium text-white hover:bg-blue-600 md:px-10 md:py-4 md:text-lg"
                 >
                   My Work
@@ -169,7 +168,7 @@ export default function Hero() {
               </div>
               <div className="mt-3 rounded-md shadow sm:ml-3 sm:mt-0">
                 <a
-                  href="#"
+                  href="#contact"
                   className="flex w-full items-center justify-center rounded-md border border-transparent bg-white px-8 py-3 text-base font-medium text-blue-500 hover:bg-gray-50 md:px-10 md:py-4 md:text-lg"
                 >
                   Contact Me
