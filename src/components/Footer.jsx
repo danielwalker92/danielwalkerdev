@@ -45,6 +45,8 @@ const navigation = {
   }
   
   export default function Footer() {
+    const date = new Date()
+    
     return (
       <footer className="bg-gray-200">
         <div className="mx-auto max-w-7xl overflow-hidden px-6 py-10 sm:py-12 lg:px-8">
@@ -66,7 +68,7 @@ const navigation = {
             ))}
           </div>
           <p className="mt-10 text-center text-xs leading-5 text-gray-500">
-            &copy; 2023 Daniel Walker Dev. All rights reserved.
+            &copy; {date.getFullYear()} Daniel Walker Dev. All rights reserved.
           </p>
         </div>
       </footer>

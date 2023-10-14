@@ -8,7 +8,7 @@ const sites = [
     websiteUrl: '#',
   },
   {
-    name: 'viedash',
+    name: 'other-app',
     role: 'Productivity is great, until it becomes unproductive. viedash is meant to help simplify your daily data into manageble, consumable metrics.',
     imageUrl:
       'https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80',
