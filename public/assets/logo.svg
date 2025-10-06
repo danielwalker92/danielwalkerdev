@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<g id="BACKGROUND">
+	<rect style="fill:#0C0C0C;" width="500" height="500"/>
+</g>
+<g id="OBJECT">
+	<g>
+		<g>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="134.0982" y1="98.3653" x2="327.1141" y2="295.103">
+				<stop  offset="0.0193" style="stop-color:#EF4568"/>
+				<stop  offset="0.3677" style="stop-color:#EF6E4B"/>
+				<stop  offset="0.7831" style="stop-color:#F0992D"/>
+				<stop  offset="0.9947" style="stop-color:#F0AA21"/>
+			</linearGradient>
+			<path style="fill:url(#SVGID_1_);" d="M248.242,271.944h-75.576V151.019h77.569l0.766,0.106
+				c13.73,1.894,39.696,13.143,39.696,42.163c0,28.899-23.824,40.2-36.422,42.138l-0.851,0.131h-47.678v-54.321h22.513v31.808
+				h23.176c1.518-0.36,5.322-1.445,8.911-3.932c5.347-3.704,7.838-8.733,7.838-15.824c0-6.889-2.845-11.843-8.953-15.591
+				c-4.42-2.712-9.092-3.831-10.751-4.165h-53.302v75.9h53.064c8.926,0,17.383-1.679,25.135-4.991
+				c20.15-8.608,30.368-24.983,30.368-48.672c0-24.835-10.436-43.011-31.017-54.024c-7.648-4.092-16.406-6.255-25.33-6.255h-19.14
+				v9.005h-22.513v-31.518h41.652c12.616,0,25.048,3.084,35.951,8.918c11.817,6.323,21.436,14.729,28.592,24.986
+				c9.5,13.617,14.317,30.065,14.317,48.887c0,32.607-15.639,57.244-44.037,69.375C271.657,269.656,260.225,271.944,248.242,271.944
+				z"/>
+		</g>
+		
+			<linearGradient id="SVGID_00000063591938712544886150000011652534076695299974_" gradientUnits="userSpaceOnUse" x1="217.0023" y1="161.737" x2="217.0023" y2="217.3927">
+			<stop  offset="0.0193" style="stop-color:#000000;stop-opacity:0.9"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+		</linearGradient>
+		
+			<rect x="205.746" y="181.235" style="fill:url(#SVGID_00000063591938712544886150000011652534076695299974_);" width="22.513" height="54.277"/>
+		
+			<linearGradient id="SVGID_00000176730226546486144900000011411038287912695716_" gradientUnits="userSpaceOnUse" x1="3019.6865" y1="-314.5468" x2="3020.5745" y2="-283.1331" gradientTransform="matrix(-1 0 0 -1 3237.6394 -152.2385)">
+			<stop  offset="0.0193" style="stop-color:#000000;stop-opacity:0.9"/>
+			<stop  offset="0.9947" style="stop-color:#000000;stop-opacity:0"/>
+		</linearGradient>
+		<polygon style="fill:url(#SVGID_00000176730226546486144900000011411038287912695716_);" points="205.746,112.867 
+			228.259,112.867 228.259,144.495 205.746,144.495 		"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 119.2138 344.7165)" style="fill:#FFFFFF; font-family:'Poppins-Bold'; font-size:39.9169px;">YOUR BRAND</text>
+		<g>
+			
+				<text transform="matrix(1 0 0 1 164.0375 378.0988)" style="fill:#FFFFFF; font-family:'Poppins-Medium'; font-size:15.5232px; letter-spacing:6;">TAGLINE HERE</text>
+		</g>
+	</g>
+</g>
+</svg>
