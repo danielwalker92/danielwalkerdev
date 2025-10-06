@@ -1,7 +1,7 @@
 import { Fragment } from 'react'
 import { Popover, Transition } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
-import logo from '../assets/logo.svg'
+import logo from '/dist/assets/logo.svg'
 
 const navigation = [
   { name: 'Projects', href: '#projects' },

@@ -31,32 +31,32 @@
           <div className="mx-auto grid w-full max-w-sm grid-cols-2 items-center gap-y-8 sm:gap-y-10 lg:mx-0 lg:max-w-lg lg:pl-8">
             <img
               className="max-h-12 w-full object-contain object-left"
-              src=".\src\assets\reactjs.svg"
+              src="/dist/assets/reactjs.svg"
               alt="React"
             />
               <img
                 className="max-h-12 w-full object-contain object-left"
-                src=".\src\assets\expressjs.svg"
+                src="/dist/assets/expressjs.svg"
                 alt="Express"
               />
               <img
                 className="max-h-12 w-full object-contain object-left"
-                src=".\src\assets\nodejs.svg"
+                src="/dist/assets/nodejs.svg"
                 alt="Node"
               />
               <img
                 className="max-h-12 w-full object-contain object-left"
-                src=".\src\assets\tailwindcss.svg"
+                src="\dist\assets\tailwindcss.svg"
                 alt="TailwindCSS"
               />
             <img
               className="max-h-12 w-full object-contain object-left"
-              src=".\src\assets\mongodb.svg"
+              src="\dist\assets\mongodb.svg"
               alt="MongoDB"
             />
               <img
                 className="max-h-12 w-full object-contain object-left"
-                src="src\assets\mariadb.svg"
+                src="\dist\assets\mariadb.svg"
                 alt="MariaDB"
               />
           </div>
